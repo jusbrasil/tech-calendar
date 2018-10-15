@@ -29,7 +29,7 @@
 #### [Strata](https://conferences.oreilly.com/strata) (2018-05-21)
 * **Data:** 21/05/2018 a 24/05/2018
 * **Local:** London, UK
-* **Tags:** big data, data science, hadoop, spark, etl, deep learning  
+* **Tags:** big data, data science, hadoop, spark, etl, deep learning
 
 #### [Python Nordeste](https://2018.pythonnordeste.org/) (2018-05-24)
 * **Data:** 24/05/2018 a 26/05/2018
@@ -106,6 +106,12 @@
 * **Data:** 20/10/2018
 * **Local:** São Paulo-SP
 * **Tags:** react
+
+
+#### [Devopsday Salvador](https://www.devopsdays.org/events/2018-salvador/welcome/) (2018-10-27)
+* **Data:** 27/10/2018
+* **Local:** Salvador-BA
+* **Tags:** devops, desenvolvimento, operações de infraestrutura de TI
 
 
 ## Novembro
