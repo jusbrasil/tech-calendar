@@ -101,10 +101,14 @@
 * **Local:** Natal-RN
 * **Tags:** python, flask, django, celery
 
-
 #### [React Conf Brasil](http://reactconfbr.com.br/) (2018-10-20)
 * **Data:** 20/10/2018
 * **Local:** São Paulo-SP
+* **Tags:** react
+
+#### [React Conf](https://conf.reactjs.org/) (2018-10-25)
+* **Data:** 25/10/2018 e 26/10/2018
+* **Local:** Henderson, Nevada
 * **Tags:** react
 
 
@@ -114,7 +118,6 @@
 * **Data:** 04/11/2018 a 07/11/2018
 * **Local:** Kilkenny, Ireland
 * **Tags:** node, express
-
 
 #### [Roadsec](https://roadsec.com.br/) (2018-11-10)
 * **Data:** 10/11/2018
@@ -129,12 +132,10 @@
 
 ## Dezembro
 
-
 #### [DockerCon EU](https://europe-2018.dockercon.com/) (2018-12-03)
 * **Data:** 03/12/2018 a 05/12/2018
 * **Local:** Barcelona, Spain
 * **Tags:** docker
-
 
 #### [TDC Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilhas) (2018-12-05)
 * **Data:** 05/12/2018 a 08/12/2018
@@ -150,3 +151,4 @@
 * **Data:** 13/12/2018 a 14/12/2018
 * **Local:** Universidade Anhembi Morumbi, São Paulo-SP
 * **Tags:** elixir, clojure, rust e crystal
+
