@@ -101,12 +101,10 @@
 * **Local:** Natal-RN
 * **Tags:** python, flask, django, celery
 
-
 #### [React Conf Brasil](http://reactconfbr.com.br/) (2018-10-20)
 * **Data:** 20/10/2018
 * **Local:** São Paulo-SP
 * **Tags:** react
-
 
 #### [Devopsday Salvador](https://devopsdayssa2018.eventize.com.br/) (2018-10-27)
 * **Data:** 27/10/2018
@@ -121,11 +119,15 @@
 * **Local:** Kilkenny, Ireland
 * **Tags:** node, express
 
-
 #### [Roadsec](https://roadsec.com.br/) (2018-11-10)
 * **Data:** 10/11/2018
 * **Local:** São Paulo-SP
 * **Tags:** segurança
+
+#### [GDG DevFest Rio](https://gdgrio.github.io/devfest/) (2018-11-17)
+* **Data:** 17/11/2018
+* **Local:** Rio de Janeiro-RJ
+* **Tags:** gdg, devfest, google
 
 #### [PyCon Argentina](http://www.python.org.ar/) (2018-11-22)
 * **Data:** 22/11/2018 a 25/11/2018
@@ -135,12 +137,10 @@
 
 ## Dezembro
 
-
 #### [DockerCon EU](https://europe-2018.dockercon.com/) (2018-12-03)
 * **Data:** 03/12/2018 a 05/12/2018
 * **Local:** Barcelona, Spain
 * **Tags:** docker
-
 
 #### [TDC Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilhas) (2018-12-05)
 * **Data:** 05/12/2018 a 08/12/2018
