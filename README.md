@@ -108,7 +108,7 @@
 * **Tags:** react
 
 
-#### [Devopsday Salvador](https://www.devopsdays.org/events/2018-salvador/welcome/) (2018-10-27)
+#### [Devopsday Salvador](https://devopsdayssa2018.eventize.com.br/) (2018-10-27)
 * **Data:** 27/10/2018
 * **Local:** Salvador-BA
 * **Tags:** devops, desenvolvimento, operações de infraestrutura de TI
