@@ -106,6 +106,11 @@
 * **Local:** São Paulo-SP
 * **Tags:** react
 
+#### [React Conf](https://conf.reactjs.org/) (2018-10-25)
+* **Data:** 25/10/2018 e 26/10/2018
+* **Local:** Henderson, Nevada
+* **Tags:** react
+
 #### [Devopsday Salvador](https://devopsdayssa2018.eventize.com.br/) (2018-10-27)
 * **Data:** 27/10/2018
 * **Local:** Salvador-BA
