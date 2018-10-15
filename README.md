@@ -29,7 +29,7 @@
 #### [Strata](https://conferences.oreilly.com/strata) (2018-05-21)
 * **Data:** 21/05/2018 a 24/05/2018
 * **Local:** London, UK
-* **Tags:** big data, data science, hadoop, spark, etl, deep learning  
+* **Tags:** big data, data science, hadoop, spark, etl, deep learning
 
 #### [Python Nordeste](https://2018.pythonnordeste.org/) (2018-05-24)
 * **Data:** 24/05/2018 a 26/05/2018
@@ -111,6 +111,11 @@
 * **Local:** Henderson, Nevada
 * **Tags:** react
 
+#### [Devopsday Salvador](https://devopsdayssa2018.eventize.com.br/) (2018-10-27)
+* **Data:** 27/10/2018
+* **Local:** Salvador-BA
+* **Tags:** devops, desenvolvimento, operações de infraestrutura de TI
+
 
 ## Novembro
 
@@ -123,6 +128,11 @@
 * **Data:** 10/11/2018
 * **Local:** São Paulo-SP
 * **Tags:** segurança
+
+#### [GDG DevFest Rio](https://gdgrio.github.io/devfest/) (2018-11-17)
+* **Data:** 17/11/2018
+* **Local:** Rio de Janeiro-RJ
+* **Tags:** gdg, devfest, google
 
 #### [PyCon Argentina](http://www.python.org.ar/) (2018-11-22)
 * **Data:** 22/11/2018 a 25/11/2018
@@ -147,8 +157,12 @@
 * **Local:** Faculdade Senac, Porto Alegre-RS
 * **Tags:** php, cake
 
+#### [DevFest 2018 Feira de Santana](https://gdgfsa.github.io/devfest2018/) (2018-12-08)
+* **Data:** 08/12/2018
+* **Local:** Faculdade de Tecnologia e Ciências, Feira de Santana-BA
+* **Tags:** GDG, DevFest, Flutter, Google
+
 #### [RubyConf Brasil](https://eventos.locaweb.com.br/proximos-eventos/rubyconf-brasil-2018/) (2018-12-13)
 * **Data:** 13/12/2018 a 14/12/2018
 * **Local:** Universidade Anhembi Morumbi, São Paulo-SP
 * **Tags:** elixir, clojure, rust e crystal
-
