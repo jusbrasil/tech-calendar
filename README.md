@@ -152,6 +152,11 @@
 * **Local:** Faculdade Senac, Porto Alegre-RS
 * **Tags:** php, cake
 
+#### [DevFest 2018 Feira de Santana](https://gdgfsa.github.io/devfest2018/) (2018-12-08)
+* **Data:** 08/12/2018
+* **Local:** Faculdade de Tecnologia e Ciências, Feira de Santana-BA
+* **Tags:** GDG, DevFest, Flutter, Google
+
 #### [RubyConf Brasil](https://eventos.locaweb.com.br/proximos-eventos/rubyconf-brasil-2018/) (2018-12-13)
 * **Data:** 13/12/2018 a 14/12/2018
 * **Local:** Universidade Anhembi Morumbi, São Paulo-SP
