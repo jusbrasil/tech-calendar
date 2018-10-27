@@ -124,6 +124,11 @@
 * **Local:** Kilkenny, Ireland
 * **Tags:** node, express
 
+#### [CocoaHeads Conference](http://cocoaheadsconference.com.br) (2018-11-09)
+* **Data:** 09/11/2018 a 11/09/2018
+* **Local:** São Paulo-SP
+* **Tags:** swift, ios, mobile, apple
+
 #### [Roadsec](https://roadsec.com.br/) (2018-11-10)
 * **Data:** 10/11/2018
 * **Local:** São Paulo-SP
