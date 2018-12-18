@@ -1,4 +1,4 @@
-# Eventos de Tecnologia - 2018
+# Eventos de Tecnologia - 2019
 
 ## Janeiro
 
@@ -6,168 +6,71 @@
 
 ## Março
 
+#### [Strata](https://conferences.oreilly.com/strata) (2019-03-25)
+* **Data:** 25/05/2019 a 29/05/2019
+* **Local:** San Francisco, CA, USA
+* **Tags:** big data, data science, hadoop, spark, etl, deep learning  
+
+
 ## Abril
 
-#### [TDC Florianópolis](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilhas) (2018-04-18)
-* **Data:** 18/04/2018 a 21/04/2018
+#### [TDC Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilhas) (2019-04-23)
+* **Data:** 23/04/2019 a 27/04/2019
 * **Local:** Florianópolis-SC
 * **Tags:** desenvolvimento, web, backend, python, node
+
+#### [DockerCon](https://2019.dockercon.com/) (2019-04-29)
+* **Data:** 29/04/2019 a 02/05/2019
+* **Local:** San Francisco-CA, USA
+* **Tags:** docker
+
+#### [Strata London](https://conferences.oreilly.com/strata) (2019-04-29)
+* **Data:** 29/04/2019 a 02/05/2019
+* **Local:** London, UK
+* **Tags:** big data, data science, hadoop, spark, etl, deep learning  
 
 
 ## Maio
 
-#### [F8](https://www.f8.com/) (2018-05-01)
-* **Data:** 01/05/2018 a 02/05/2018
-* **Local:** San Jose, California, USA
-* **Tags:** react, relay, graphql, facebook
-
-#### [QCon São Paulo](https://qconsp.com/) (2018-05-09)
-* **Data:** 09/05/2018 a 11/05/2018
+#### [QCon São Paulo](https://qconsp.com/) (2019-05-06)
+* **Data:** 06/05/2019 a 08/05/2019
 * **Local:** Centro de Convenções Frei Caneca, São Paulo-SP
 * **Tags:** desenvolvimento, web, backend, fullstack, tecnologia
-
-#### [Strata](https://conferences.oreilly.com/strata) (2018-05-21)
-* **Data:** 21/05/2018 a 24/05/2018
-* **Local:** London, UK
-* **Tags:** big data, data science, hadoop, spark, etl, deep learning
-
-#### [Python Nordeste](https://2018.pythonnordeste.org/) (2018-05-24)
-* **Data:** 24/05/2018 a 26/05/2018
-* **Local:** Paraíba-PB
-* **Tags:** python
 
 
 ## Junho
 
-#### [LinguÁgil](https://linguagil.com.br/) (2018-06-08)
-* **Data:** 08/06/2018 a 09/06/2018
-* **Local:** HuSalvador, Salvador-BA
-* **Tags:** linguagens, programação, php, java, node, python
-
-#### [DockerCon](https://2018.dockercon.com/) (2018-06-12)
-* **Data:** 12/06/2018 a 15/06/2018
-* **Local:** San Francisco-CA, USA
-* **Tags:** docker
-
+#### [GraphQL Conf](https://qconsp.com/) (2019-05-06)
+* **Data:** 20/06/2019 a 21/06/2019
+* **Local:** berln
+* **Tags:** graphql, api, web, mobile, backend, fullstack, tecnologia
 
 ## Julho
 
-#### [FISL - Festival Internacional de Software Livre](http://www.fisl.org.br/) (2018-07-11)
-* **Data:** 11/07/2018 a 14/11/2018
-* **Local:** Porto Alegre-RS
-* **Tags:** linux, software livre, open source
-
-#### [TDC São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilhas) (2018-07-17)
-* **Data:** 17/07/2018 a 21/07/2018
-* **Local:** São Paulo-SP
-* **Tags:** desenvolvimento, web, backend, python, node
-
-#### [XXXVIII Congresso da Sociedade Brasileira de Computação](http://natal.uern.br/eventos/csbc2018/) (2018-07-22)
-* **Data:** 22/07/2018 a 26/07/2018
-* **Local:** Natal-RN
+#### [XXXIX Congresso da Sociedade Brasileira de Computação](http://www.sbc.org.br/csbc2019) (2019-07-14)
+* **Data:** 14/07/2019 a 18/07/2019
+* **Local:** Belém-PA
 * **Tags:** computação
 
 
 ## Agosto
 
-#### [Brazil JS](https://braziljs.org/conf/) (2018-08-24)
-* **Data:** 24/08/2018 a 25/08/2018
-* **Local:** Porto Alegre-RS
-* **Tags:** node, react, express
-
-#### [Flask Conf](https://2018.flask.python.org.br/) (2018-08-24)
-* **Data:** 24/08/2018 e 25/08/2018
-* **Local:** São Paulo-SP
-* **Tags:** python, flask
-
-#### [SciPy Latin America](http://conf.scipyla.org/) (2018-08-29)
-* **Data:** 29/08/2018 e 01/09/2018
-* **Local:** Curitiba-PR
-* **Tags:** python, scipy, scikit-learn, pandas
-
-
 ## Setembro
 
-#### [GopherCon Brasil](https://2018.gopherconbr.org/) (2018-09-27)
-* **Data:** 27/09/2018 a 29/09/2018
-* **Local:** Florianópolis-SC
-* **Tags:** go
+#### [TDC Recife](http://www.thedevelopersconference.com.br/) (2019-09-11)
+* **Data:** 11/09/2019 a 13/09/2019
+* **Local:** Recife-PE
+* **Tags:** desenvolvimento, web, backend, python, node
+
+
+#### [Strata NYC](https://conferences.oreilly.com/strata) (2019-09-23)
+* **Data:** 23/09/2019 a 26/09/2019
+* **Local:** New York, USA
+* **Tags:** big data, data science, hadoop, spark, etl, deep learning  
 
 
 ## Outubro
 
-#### [Python Brasil](https://2018.pythonbrasil.org.br/) (2018-10-17)
-* **Data:** 17/10/2018 a 22/10/2018
-* **Local:** Natal-RN
-* **Tags:** python, flask, django, celery
-
-#### [React Conf Brasil](http://reactconfbr.com.br/) (2018-10-20)
-* **Data:** 20/10/2018
-* **Local:** São Paulo-SP
-* **Tags:** react
-
-#### [React Conf](https://conf.reactjs.org/) (2018-10-25)
-* **Data:** 25/10/2018 e 26/10/2018
-* **Local:** Henderson, Nevada
-* **Tags:** react
-
-#### [Devopsday Salvador](https://devopsdayssa2018.eventize.com.br/) (2018-10-27)
-* **Data:** 27/10/2018
-* **Local:** Salvador-BA
-* **Tags:** devops, desenvolvimento, operações de infraestrutura de TI
-
-
 ## Novembro
 
-#### [NodeConf EU](https://www.nodeconf.eu/) (2018-11-04)
-* **Data:** 04/11/2018 a 07/11/2018
-* **Local:** Kilkenny, Ireland
-* **Tags:** node, express
-
-#### [CocoaHeads Conference](http://cocoaheadsconference.com.br) (2018-11-09)
-* **Data:** 09/11/2018 a 11/09/2018
-* **Local:** São Paulo-SP
-* **Tags:** swift, ios, mobile, apple
-
-#### [Roadsec](https://roadsec.com.br/) (2018-11-10)
-* **Data:** 10/11/2018
-* **Local:** São Paulo-SP
-* **Tags:** segurança
-
-#### [GDG DevFest Rio](https://gdgrio.github.io/devfest/) (2018-11-17)
-* **Data:** 17/11/2018
-* **Local:** Rio de Janeiro-RJ
-* **Tags:** gdg, devfest, google
-
-#### [PyCon Argentina](http://www.python.org.ar/) (2018-11-22)
-* **Data:** 22/11/2018 a 25/11/2018
-* **Local:** Buenos Aires, Argentina
-* **Tags:** python, django, flask
-
-
 ## Dezembro
-
-#### [DockerCon EU](https://europe-2018.dockercon.com/) (2018-12-03)
-* **Data:** 03/12/2018 a 05/12/2018
-* **Local:** Barcelona, Spain
-* **Tags:** docker
-
-#### [TDC Porto Alegre](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilhas) (2018-12-05)
-* **Data:** 05/12/2018 a 08/12/2018
-* **Local:** Porto Alegre-RS
-* **Tags:** desenvolvimento, web, backend, python, node
-
-#### [PHP Conference](https://phpconference.com.br/) (2018-12-06)
-* **Data:** 06/12/2018 a 08/12/2018
-* **Local:** Faculdade Senac, Porto Alegre-RS
-* **Tags:** php, cake
-
-#### [DevFest 2018 Feira de Santana](https://gdgfsa.github.io/devfest2018/) (2018-12-08)
-* **Data:** 08/12/2018
-* **Local:** Faculdade de Tecnologia e Ciências, Feira de Santana-BA
-* **Tags:** GDG, DevFest, Flutter, Google
-
-#### [RubyConf Brasil](https://eventos.locaweb.com.br/proximos-eventos/rubyconf-brasil-2018/) (2018-12-13)
-* **Data:** 13/12/2018 a 14/12/2018
-* **Local:** Universidade Anhembi Morumbi, São Paulo-SP
-* **Tags:** elixir, clojure, rust e crystal
