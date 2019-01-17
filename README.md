@@ -19,6 +19,11 @@
 * **Local:** Florianópolis-SC
 * **Tags:** desenvolvimento, web, backend, python, node
 
+#### [FLISOL Castanhal](https://flisolcastanhal.paralivre.org/) (2019-04-27)
+* **Data:** 27/04/2019
+* **Local:** Castanhal-PA
+* **Tags:** software livre
+
 #### [DockerCon](https://2019.dockercon.com/) (2019-04-29)
 * **Data:** 29/04/2019 a 02/05/2019
 * **Local:** San Francisco-CA, USA
