@@ -4,6 +4,11 @@
 
 ## Fevereiro
 
+#### [Android Fest Aracaju](https://gdgaracaju.com.br/) (2019-02-09)
+* **Data:** 09/02/2019
+* **Local:** Aracaju-SE
+* **Tags:** tecnologia, mobile, android
+
 #### [Campus Party](https://brasil.campus-party.org/) (2019-02-12)
 * **Data:** 12/02/2019 a 17/02/2019
 * **Local:** São Paulo-SP
@@ -12,18 +17,38 @@
 
 ## Março
 
+#### [Women Dev Summit :: Universe](https://www.sympla.com.br/women-dev-summit--universe__441860) (2019-03-08)
+* **Data:** 08/03/2019 e 09/03/2019
+* **Local:** UNINOVE Campus Vergueiro, São Paulo-SP
+* **Tags:** desenvolvimento, arquitetura, gestão, ui, ux
+
 #### [Strata](https://conferences.oreilly.com/strata) (2019-03-25)
 * **Data:** 25/03/2019 a 29/03/2019
 * **Local:** San Francisco, CA, USA
-* **Tags:** big data, data science, hadoop, spark, etl, deep learning  
+* **Tags:** big data, data science, hadoop, spark, etl, deep learning
 
 
 ## Abril
+
+#### [DevOpsDays São Paulo](https://www.sympla.com.br/devopsdays-sao-paulo-2019__377415) (2019-04-10)
+* **Data:** 10/04/2019 e 11/04/2019
+* **Local:** São Paulo-SP
+* **Tags:** devops, infraestrutura, arquitetura
+
+#### [MVPConf LATAM 2019](https://mvpconf.com.br/) (2019-04-12)
+* **Data:** 12/04/2019 e 13/04/2019
+* **Local:** Universidade Anhembi Morumbi, São Paulo-SP
+* **Tags:** microsoft
 
 #### [TDC Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilhas) (2019-04-23)
 * **Data:** 23/04/2019 a 27/04/2019
 * **Local:** Florianópolis-SC
 * **Tags:** desenvolvimento, web, backend, python, node
+
+#### [Python Sudeste 2019](http://2019.pythonsudeste.org/) (2019-04-26)
+* **Data:** 26/04/2019 a 28/04/2019
+* **Local:** Vitória-ES
+* **Tags:** python, desenvolvimento
 
 #### [FLISOL Castanhal](https://flisolcastanhal.paralivre.org/) (2019-04-27)
 * **Data:** 27/04/2019
@@ -38,7 +63,7 @@
 #### [Strata London](https://conferences.oreilly.com/strata) (2019-04-29)
 * **Data:** 29/04/2019 a 02/05/2019
 * **Local:** London, UK
-* **Tags:** big data, data science, hadoop, spark, etl, deep learning  
+* **Tags:** big data, data science, hadoop, spark, etl, deep learning
 
 #### [F8](https://www.f8.com/) (2018-04-30)
 * **Data:** 30/04/2018 a 01/05/2018
@@ -53,6 +78,11 @@
 * **Local:** Centro de Convenções Frei Caneca, São Paulo-SP
 * **Tags:** desenvolvimento, web, backend, fullstack, tecnologia
 
+#### [Tech Interior 2019](https://qconsp.com/) (2019-05-25)
+* **Data:** 25/05/2019
+* **Local:** Jaboticabal-SP
+* **Tags:** desenvolvimento, web, backend, fullstack, tecnologia
+
 
 ## Junho
 
@@ -60,6 +90,11 @@
 * **Data:** 05/06/2019 e 06/06/2019
 * **Local:** WTC Events Center, São Paulo-SP
 * **Tags:** api, frontend, web
+
+#### [Darkmira Tour PHP](https://php.darkmiratour.rocks/) (2019-06-07)
+* **Data:** 07/06/2019 a 09/06/2019
+* **Local:** Fortaleza-CE
+* **Tags:** php, backend, web
 
 #### [GraphQL Conf](https://www.graphqlconf.org/) (2019-06-20)
 * **Data:** 20/06/2019 a 21/06/2019
@@ -103,7 +138,7 @@
 #### [Strata NYC](https://conferences.oreilly.com/strata) (2019-09-23)
 * **Data:** 23/09/2019 a 26/09/2019
 * **Local:** New York, USA
-* **Tags:** big data, data science, hadoop, spark, etl, deep learning  
+* **Tags:** big data, data science, hadoop, spark, etl, deep learning
 
 
 ## Outubro
