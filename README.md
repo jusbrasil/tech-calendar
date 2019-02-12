@@ -73,6 +73,11 @@
 
 ## Maio
 
+#### [DevConf São Carlos](http://www.devconf.com.br/) (2019-05-04)
+* **Data:** 04/05/2019
+* **Local:** ICMC USP São Carlos | Av. Trab. São Carlense, 400 - Centro, São Carlos
+* **Tags:** desenvolvimento, web, backend, frontend, fullstack, tecnologia
+
 #### [QCon São Paulo](https://qconsp.com/) (2019-05-06)
 * **Data:** 06/05/2019 a 08/05/2019
 * **Local:** Centro de Convenções Frei Caneca, São Paulo-SP
