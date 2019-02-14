@@ -30,10 +30,15 @@
 
 ## Abril
 
-#### [DevOpsDays São Paulo](https://www.sympla.com.br/devopsdays-sao-paulo-2019__377415) (2019-04-10)
-* **Data:** 10/04/2019 e 11/04/2019
+#### [PHP Experience 2019](https://eventos.imasters.com.br/phpexperience/) (2019-04-05)
+* **Data:** 05/04/2019 e 06/04/2019
 * **Local:** São Paulo-SP
 * **Tags:** devops, infraestrutura, arquitetura
+
+#### [DevOpsDays São Paulo](https://www.sympla.com.br/devopsdays-sao-paulo-2019__377415) (2019-04-10)
+* **Data:** 10/04/2019 e 11/04/2019
+* **Local:** iMasters PUB, São Paulo-SP
+* **Tags:** php
 
 #### [MVPConf LATAM 2019](https://mvpconf.com.br/) (2019-04-12)
 * **Data:** 12/04/2019 e 13/04/2019
@@ -73,15 +78,30 @@
 
 ## Maio
 
+#### [DBA Brasil 4.0](https://dbabrasil.net.br/db4/) (2019-05-04)
+* **Data:** 04/05/2019
+* **Local:** FIAP - unidade Aclamação, São Paulo-SP
+* **Tags:** dba, banco de dados, data, infraestrutura de dados
+
 #### [DevConf São Carlos](http://www.devconf.com.br/) (2019-05-04)
 * **Data:** 04/05/2019
 * **Local:** ICMC USP São Carlos | Av. Trab. São Carlense, 400 - Centro, São Carlos
 * **Tags:** desenvolvimento, web, backend, frontend, fullstack, tecnologia
 
+#### [Frontin Campinas 2019](https://frontincampinas.com.br/) (2019-05-04)
+* **Data:** 04/05/2019
+* **Local:** Hotel Vitória Concept, Campinas-SP
+* **Tags:** desenvolvimento, web, frontend, fullstack
+
 #### [QCon São Paulo](https://qconsp.com/) (2019-05-06)
 * **Data:** 06/05/2019 a 08/05/2019
 * **Local:** Centro de Convenções Frei Caneca, São Paulo-SP
 * **Tags:** desenvolvimento, web, backend, fullstack, tecnologia
+
+#### [Capiconf 2019](http://capiconf.com/) (2019-05-10)
+* **Data:** 10/05/2019 e 11/05/2019
+* **Local:** Curitiba-PR
+* **Tags:** desenvolvimento, tecnologia, devops, data science, machine learning
 
 #### [Tech Interior 2019](https://qconsp.com/) (2019-05-25)
 * **Data:** 25/05/2019
