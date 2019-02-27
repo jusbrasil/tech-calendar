@@ -168,6 +168,11 @@
 
 ## Outubro
 
+#### [Bracis](http://www.bracis2019.ufba.br/) (2019-10-15)
+* **Data:** 15/10/2019 e 18/10/2019
+* **Local:** Salvador-BA
+* **Tags:** tecnologia, machine learning, artificial intelligence, data science
+
 #### [IT Forum Expo](https://www.itforumexpo.com.br/) (2019-10-16)
 * **Data:** 16/10/2019 e 17/10/2019
 * **Local:** São Paulo-SP
