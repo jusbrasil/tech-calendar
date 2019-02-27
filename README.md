@@ -22,6 +22,11 @@
 * **Local:** UNINOVE Campus Vergueiro, São Paulo-SP
 * **Tags:** desenvolvimento, arquitetura, gestão, ui, ux
 
+#### [Semcomp](https://semcomp.com.br/) (2019-03-21)
+* **Data:** 21/03/2019 e 24/03/2019
+* **Local:** Salvador-BA
+* **Tags:** desenvolvimento, tecnologia, devops, frontend, fullstack, backend
+
 #### [Strata](https://conferences.oreilly.com/strata) (2019-03-25)
 * **Data:** 25/03/2019 a 29/03/2019
 * **Local:** San Francisco, CA, USA
