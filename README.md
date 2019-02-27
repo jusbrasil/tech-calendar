@@ -83,6 +83,11 @@
 
 ## Maio
 
+#### [CryptoRave 2019](https://cpa.cryptorave.org/en/cr2019/cfp) (2019-05-03)
+* **Data:** 03/05/2019 e 04/05/2019
+* **Local:** São Paulo-SP
+* **Tags:** criptografia, segurança, privacidade
+
 #### [DBA Brasil 4.0](https://dbabrasil.net.br/db4/) (2019-05-04)
 * **Data:** 04/05/2019
 * **Local:** FIAP - unidade Aclamação, São Paulo-SP
@@ -108,6 +113,11 @@
 * **Local:** Curitiba-PR
 * **Tags:** desenvolvimento, tecnologia, devops, data science, machine learning
 
+#### [PHPRS 2019](https://conference.phprs.com.br/) (2019-05-17)
+* **Data:** 17/05/2019 e 18/05/2019
+* **Local:** Porto Alegre-RS
+* **Tags:** php, web, backend
+
 #### [Tech Interior 2019](https://qconsp.com/) (2019-05-25)
 * **Data:** 25/05/2019
 * **Local:** Jaboticabal-SP
@@ -120,6 +130,11 @@
 * **Data:** 05/06/2019 e 06/06/2019
 * **Local:** WTC Events Center, São Paulo-SP
 * **Tags:** api, frontend, web
+
+#### [Caipyra 2019](https://www.eventbrite.com.br/e/caipyra-2019-tickets-56352978275) (2019-06-07)
+* **Data:** 07/06/2019 a 10/06/2019
+* **Local:** Instituto de Ciências Matemáticas e Computacional da USP, São Carlos-SP
+* **Tags:** python, desenvolvimento
 
 #### [Darkmira Tour PHP](https://php.darkmiratour.rocks/) (2019-06-07)
 * **Data:** 07/06/2019 a 09/06/2019
