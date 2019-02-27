@@ -35,6 +35,11 @@
 * **Local:** São Paulo-SP
 * **Tags:** devops, infraestrutura, arquitetura
 
+#### [NoSQL BA](https://www.sympla.com.br/nosqlba-2019__441960) (2019-04-05)
+* **Data:** 05/04/2019 e 06/04/2019
+* **Local:** Salvador-BA
+* **Tags:** nosql, infraestrutura, arquitetura, desenvolvimento
+
 #### [DevOpsDays São Paulo](https://www.sympla.com.br/devopsdays-sao-paulo-2019__377415) (2019-04-10)
 * **Data:** 10/04/2019 e 11/04/2019
 * **Local:** iMasters PUB, São Paulo-SP
