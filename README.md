@@ -139,6 +139,11 @@
 * **Local:** Belém-PA
 * **Tags:** computação
 
+#### [Python Nordeste](https://2019.pythonnordeste.org/) (2019-07-19)
+* **Data:** 19/07/2019 a 21/07/2019
+* **Local:** Recife-PE
+* **Tags:** python, desenvolvimento
+
 #### [TDC São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/index.html) (2018-07-24)
 * **Data:** 24/07/2018 a 28/07/2018
 * **Local:** São Paulo-SP
