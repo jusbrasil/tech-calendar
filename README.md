@@ -208,6 +208,11 @@
 * **Local:** São Paulo-SP
 * **Tags:** tecnologia, business, startups
 
+#### [Python Brasil](https://2019.pythonbrasil.org.br/) (2019-10-23)
+* **Data:** 23/10/2019 a 28/10/2019
+* **Local:** Ribeirão Preto-SP
+* **Tags:** python, desenvolvimento, carreira
+
 ## Novembro
 
 ## Dezembro
