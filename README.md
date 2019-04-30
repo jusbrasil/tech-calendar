@@ -55,6 +55,16 @@
 * **Local:** Universidade Anhembi Morumbi, São Paulo-SP
 * **Tags:** microsoft
 
+#### [Agile Trends](http://agiletrendsbr.com) (2019-04-12)
+* **Data:** 12/04/2019 a 18/04/2019
+* **Local:** São Paulo - SP
+* **Tags:** agile, agil
+
+#### [Roadsec Campinas](https://roadsec.com.br/) (2019-04-13)
+* **Data:** 13/04/2019 a 13/04/2019
+* **Local:** Campinas - SP
+* **Tags:** seguranca, cybersecurity
+
 #### [TDC Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilhas) (2019-04-23)
 * **Data:** 23/04/2019 a 27/04/2019
 * **Local:** Florianópolis-SC
@@ -70,6 +80,11 @@
 * **Local:** Castanhal-PA
 * **Tags:** software livre
 
+#### [Roadsec Belém PA](https://roadsec.com.br/) (2019-04-27)
+* **Data:** 27/04/2019 a 27/04/2019
+* **Local:** Belém - PA
+* **Tags:** seguranca, cybersecurity
+
 #### [DockerCon](https://2019.dockercon.com/) (2019-04-29)
 * **Data:** 29/04/2019 a 02/05/2019
 * **Local:** San Francisco-CA, USA
@@ -84,7 +99,6 @@
 * **Data:** 30/04/2018 a 01/05/2018
 * **Local:** San Jose, California, USA
 * **Tags:** react, relay, graphql, facebook
-
 
 ## Maio
 
@@ -108,6 +122,11 @@
 * **Local:** Hotel Vitória Concept, Campinas-SP
 * **Tags:** desenvolvimento, web, frontend, fullstack
 
+#### [Roadsec São José do Rio Preto](https://roadsec.com.br/) (2019-05-04)
+* **Data:** 04/05/2019 a 04/05/2019
+* **Local:** São José do Rio Preto - SP
+* **Tags:** seguranca, cybersecurity
+
 #### [QCon São Paulo](https://qconsp.com/) (2019-05-06)
 * **Data:** 06/05/2019 a 08/05/2019
 * **Local:** Centro de Convenções Frei Caneca, São Paulo-SP
@@ -118,18 +137,42 @@
 * **Local:** Curitiba-PR
 * **Tags:** desenvolvimento, tecnologia, devops, data science, machine learning
 
+#### [Roadsec Fortaleza](https://roadsec.com.br/) (2019-05-11)
+* **Data:** 11/05/2019 a 11/05/2019
+* **Local:** Fortaleza - CE
+* **Tags:** seguranca, cybersecurity
+
 #### [PHPRS 2019](https://conference.phprs.com.br/) (2019-05-17)
 * **Data:** 17/05/2019 e 18/05/2019
 * **Local:** Porto Alegre-RS
 * **Tags:** php, web, backend
+
+#### [UX Conf BR](https://www.uxconf.com.br/) (2019-05-17)
+* **Data:** 17/05/2019 e 18/05/2019
+* **Local:** Porto Alegre-RS
+* **Tags:** ux
+
+#### [Roadsec RJ](https://roadsec.com.br/) (2019-05-18)
+* **Data:** 18/05/2019 a 18/05/2019
+* **Local:** Rio de Janeiro - RJ
+* **Tags:** seguranca, cybersecurity
 
 #### [Tech Interior 2019](https://qconsp.com/) (2019-05-25)
 * **Data:** 25/05/2019
 * **Local:** Jaboticabal-SP
 * **Tags:** desenvolvimento, web, backend, fullstack, tecnologia
 
+#### [Roadsec João Pessoa](https://roadsec.com.br/) (2019-05-25)
+* **Data:** 25/05/2019 a 25/05/2019
+* **Local:** João Pessoa - PB
+* **Tags:** seguranca, cybersecurity
 
 ## Junho
+
+#### [Roadsec Goiânia](https://roadsec.com.br/) (2019-06-01)
+* **Data:** 01/06/2019 a 01/06/2019
+* **Local:** Goiânia - GO
+* **Tags:** seguranca, cybersecurity
 
 #### [APIX](http://www.apix.com.br/) (2019-06-05)
 * **Data:** 05/06/2019 e 06/06/2019
@@ -146,15 +189,31 @@
 * **Local:** Fortaleza-CE
 * **Tags:** php, backend, web
 
+#### [Roadsec Presidente Prudente](https://roadsec.com.br/) (2019-06-08)
+* **Data:** 08/06/2019 a 08/06/2019
+* **Local:** Presidente Prudente - SP
+* **Tags:** seguranca, cybersecurity
+
 #### [GraphQL Conf](https://www.graphqlconf.org/) (2019-06-20)
 * **Data:** 20/06/2019 a 21/06/2019
 * **Local:** Kosmos Berlin, Germany
 * **Tags:** graphql, api, web, mobile, backend, fullstack, tecnologia
 
+#### [Roadsec Floripa](https://roadsec.com.br/) (2019-06-25)
+* **Data:** 25/06/2019 a 25/06/2019
+* **Local:** Florianópolis - SC
+* **Tags:** seguranca, cybersecurity
+
 #### [AWS Summit](https://aws.amazon.com/pt/events/summits/) (2019-06-27)
 * **Data:** 27/06/2019
 * **Local:** São Paulo-SP
 * **Tags:** aws, amazon, backend, fullstack, rds, s3, ec2
+
+#### [Roadsec BH](https://roadsec.com.br/) (2019-06-29)
+* **Data:** 29/06/2019 a 29/06/2019
+* **Local:** Belo Horizonte - MG
+* **Tags:** seguranca, cybersecurity
+
 
 
 ## Julho
