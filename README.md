@@ -167,13 +167,7 @@
 * **Local:** João Pessoa - PB
 * **Tags:** seguranca, cybersecurity
 
-
 ## Junho
-
-#### [Python For All](http://www.pythonforall.com) (2019-06-1)
-* **Data:** 01/06/2019 a 02/06/2019
-* **Local:** Feira de Santana, BA
-* **Tags:** python, web, big data, data science, deep learning
 
 #### [Roadsec Goiânia](https://roadsec.com.br/) (2019-06-01)
 * **Data:** 01/06/2019 a 01/06/2019
