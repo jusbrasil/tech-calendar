@@ -241,6 +241,11 @@
 * **Local:** Campinas-SP
 * **Tags:** backend, fullstack, tecnologia
 
+#### [JSDay Feira de Santana 2019](http://fsa.jsday.com.br/) (2019-08-17)
+* **Data:** 17/08/2019
+* **Local:** Feira de Santana-BA
+* **Tags:** frontend, javascript, desenvolvimento, tecnologia, web
+
 
 ## Setembro
 
