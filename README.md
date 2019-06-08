@@ -236,6 +236,11 @@
 
 ## Agosto
 
+#### [DevOpsDays Goiânia](https://devopsdays.org/events/2019-goiania/) (2019-08-03)
+* **Data:** 03/08/2019
+* **Local:** Goiânia-GO
+* **Tags:** devops, infraestrutura, arquitetura
+
 #### [DevCamp](http://www.devcamp.com.br/) (2019-08-16)
 * **Data:** 16/08/2019
 * **Local:** Campinas-SP
@@ -246,6 +251,11 @@
 * **Local:** Feira de Santana-BA
 * **Tags:** frontend, javascript, desenvolvimento, tecnologia, web
 
+#### [BrazilJS Conf](https://braziljs.org/conf/) (2019-08-23)
+* **Data:** 23/08/2019 e 24/08/2019
+* **Local:** Porto Alegre-RS
+* **Tags:** javascript, node, web
+
 
 ## Setembro
 
@@ -254,6 +264,11 @@
 * **Local:** Recife-PE
 * **Tags:** desenvolvimento, web, backend, python, node
 
+#### [DevOpsDays Feira de Santana](https://devopsdays.org/events/2019-feira-de-santana/welcome/) (2019-09-15)
+* **Data:** 15/09/2019
+* **Local:** Feira de Santana-BA
+* **Tags:** devops, infraestrutura, arquitetura
+
 #### [Strata NYC](https://conferences.oreilly.com/strata) (2019-09-23)
 * **Data:** 23/09/2019 a 26/09/2019
 * **Local:** New York, USA
@@ -261,6 +276,11 @@
 
 
 ## Outubro
+
+#### [DevOpsDays Salvador](https://devopsdays.org/events/2019-salvador/welcome/) (2019-10-05)
+* **Data:** 05/10/2019
+* **Local:** UFBA Campus Ondina, Salvador-BA
+* **Tags:** devops, infraestrutura, arquitetura
 
 #### [Bracis](http://www.bracis2019.ufba.br/) (2019-10-15)
 * **Data:** 15/10/2019 e 18/10/2019
@@ -271,6 +291,11 @@
 * **Data:** 16/10/2019 e 17/10/2019
 * **Local:** São Paulo-SP
 * **Tags:** tecnologia, business, startups
+
+#### [PHPeste](https://www.phpeste.net/) (2019-10-19)
+* **Data:** 19/10/2019 e 20/10/2019
+* **Local:** Recife-PE
+* **Tags:** php
 
 #### [Python Brasil](https://2019.pythonbrasil.org.br/) (2019-10-23)
 * **Data:** 23/10/2019 a 28/10/2019
