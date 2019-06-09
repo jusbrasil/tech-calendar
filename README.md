@@ -302,6 +302,12 @@
 * **Local:** Ribeirão Preto-SP
 * **Tags:** python, desenvolvimento, carreira
 
+
+#### [DevOpsDays Campinas](https://sympla.com.br/devopsdays-campinas__530045) (2019-10-25)
+* **Data:** 25/10/2019
+* **Local:** Centro de Convenções da Unicamp, Campinas-SP
+* **Tags:** devops, desenvolvimento, operações, infraestrutura, sysadmin
+
 ## Novembro
 
 ## Dezembro
