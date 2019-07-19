@@ -228,10 +228,10 @@
 * **Local:** Recife-PE
 * **Tags:** python, desenvolvimento
 
-#### [TDC São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/index.html) (2018-07-24)
-* **Data:** 24/07/2018 a 28/07/2018
+#### [TDC São Paulo](http://www.thedevelopersconference.com.br/tdc/2019/index.html) (2019-07-16)
+* **Data:** 16/07/2019 a 20/07/2019
 * **Local:** São Paulo-SP
-* **Tags:** desenvolvimento, web, backend, python, node
+* **Tags:** desenvolvimento, web, backend, python, node, go
 
 
 ## Agosto
