@@ -274,6 +274,11 @@
 * **Local:** New York, USA
 * **Tags:** big data, data science, hadoop, spark, etl, deep learning
 
+#### [GopherCon Brasil](http://2019.gopherconbr.org/) (2019-09-27)
+* **Data:** 27/09/2019 a 28/09/2019
+* **Local:** Florianópolis-SC
+* **Tags:** go
+
 
 ## Outubro
 
