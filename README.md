@@ -297,6 +297,11 @@
 * **Local:** São Paulo-SP
 * **Tags:** tecnologia, business, startups
 
+#### [Latinoware](https://2019.latinoware.org/) (2019-10-16)
+* **Data:** 16/10/2019 e 18/10/2019
+* **Local:** Foz do Iguaçu-PR
+* **Tags:** software livre, open source, tecnologia
+
 #### [PHPeste](https://www.phpeste.net/) (2019-10-19)
 * **Data:** 19/10/2019 e 20/10/2019
 * **Local:** Recife-PE
