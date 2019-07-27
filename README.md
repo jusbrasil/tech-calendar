@@ -256,6 +256,11 @@
 * **Local:** Porto Alegre-RS
 * **Tags:** javascript, node, web
 
+#### [Clojure South](https://www.sympla.com.br/clojure-south-2019__560468) (2019-08-31)
+* **Data:** 31/08/2019 e 01/09/2019
+* **Local:** São Paulo
+* **Tags:** Clojure, programação funcional
+
 
 ## Setembro
 
