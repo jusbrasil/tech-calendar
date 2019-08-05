@@ -325,4 +325,9 @@
 
 ## Novembro
 
+#### [KubeCon / CloudNativeCon Americas](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) (2019-11-18)
+* **Data:** 18/11/2019 a 21/11/2019
+* **Local:** San Diego Convention Center, San Diego, California, USA
+* **Tags:** devops, operações, infraestrutura, sysadmin, kubernetes, containers, docker
+
 ## Dezembro
