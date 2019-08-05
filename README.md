@@ -27,6 +27,11 @@
 * **Local:** Salvador-BA
 * **Tags:** desenvolvimento, tecnologia, devops, frontend, fullstack, backend
 
+#### [SRECon19 Americas](https://www.usenix.org/conference/srecon19americas) (2019-03-25)
+* **Data:** 25/03/2019 e 27/03/2019
+* **Local:** Brooklyn, NY, USA
+* **Tags:** sre, site reliability engineering, sysadmin, monitoring, devops
+
 #### [Strata](https://conferences.oreilly.com/strata) (2019-03-25)
 * **Data:** 25/03/2019 a 29/03/2019
 * **Local:** San Francisco, CA, USA
