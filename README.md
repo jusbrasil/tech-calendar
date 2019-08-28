@@ -322,6 +322,11 @@
 * **Local:** Natal-RN
 * **Tags:** google, GDG, angular, software livre, tecnologia
 
+#### [React Conf Brasil](https://reactconf.com.br/) (2019-10-19)
+* **Data:** 19/10/2019
+* **Local:** São Paulo-SP
+* **Tags:** react, react-native, relay, graphql
+
 #### [Python Brasil](https://2019.pythonbrasil.org.br/) (2019-10-23)
 * **Data:** 23/10/2019 a 28/10/2019
 * **Local:** Ribeirão Preto-SP
