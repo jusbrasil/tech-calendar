@@ -345,4 +345,9 @@
 * **Local:** San Diego Convention Center, San Diego, California, USA
 * **Tags:** devops, operações, infraestrutura, sysadmin, kubernetes, containers, docker
 
+#### [Second Conference on Statistics and Data Science](http://www.csds2019.ime.ufba.br/index.html) (2019-11-18)
+* **Data:** 18/11/2019 a 20/11/2019
+* **Local:** Salvador-BA
+* **Tags:** statistics, data science 
+
 ## Dezembro
