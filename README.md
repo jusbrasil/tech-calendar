@@ -269,11 +269,6 @@
 
 ## Setembro
 
-#### [TDC Recife](http://www.thedevelopersconference.com.br/) (2019-09-11)
-* **Data:** 11/09/2019 a 13/09/2019
-* **Local:** Recife-PE
-* **Tags:** desenvolvimento, web, backend, python, node
-
 #### [DevOpsDays Feira de Santana](https://devopsdays.org/events/2019-feira-de-santana/welcome/) (2019-09-15)
 * **Data:** 15/09/2019
 * **Local:** Feira de Santana-BA
@@ -296,6 +291,12 @@
 * **Data:** 05/10/2019
 * **Local:** UFBA Campus Ondina, Salvador-BA
 * **Tags:** devops, infraestrutura, arquitetura
+
+
+#### [TDC Recife](http://www.thedevelopersconference.com.br/tdc/2019/recife/trilhas) (2019-10-10)
+* **Data:** 10/10/2019 a 12/10/2019
+* **Local:** Recife-PE
+* **Tags:** desenvolvimento, web, backend, python, node
 
 #### [Bracis](http://www.bracis2019.ufba.br/) (2019-10-15)
 * **Data:** 15/10/2019 e 18/10/2019
