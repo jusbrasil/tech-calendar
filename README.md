@@ -274,9 +274,8 @@
 * **Local:** Feira de Santana-BA
 * **Tags:** devops, infraestrutura, arquitetura
 
-
 #### [Strange Loop](https://www.thestrangeloop.com/) (2019-09-12)
-* **Data:** 12/09/2019
+* **Data:** 12/09/2019 a 14/09/2019
 * **Local:** St Louis, USA
 * **Tags:** multi-disciplinar, desenvolvimento, arquitetura, emerging technology
 
