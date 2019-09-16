@@ -274,6 +274,12 @@
 * **Local:** Feira de Santana-BA
 * **Tags:** devops, infraestrutura, arquitetura
 
+
+#### [Strange Loop](https://www.thestrangeloop.com/) (2019-09-12)
+* **Data:** 12/09/2019
+* **Local:** St Louis, USA
+* **Tags:** multi-disciplinar, desenvolvimento, arquitetura, emerging technology
+
 #### [Strata NYC](https://conferences.oreilly.com/strata) (2019-09-23)
 * **Data:** 23/09/2019 a 26/09/2019
 * **Local:** New York, USA
