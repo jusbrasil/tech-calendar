@@ -354,6 +354,11 @@
 #### [Second Conference on Statistics and Data Science](http://www.csds2019.ime.ufba.br/index.html) (2019-11-18)
 * **Data:** 18/11/2019 a 20/11/2019
 * **Local:** Salvador-BA
-* **Tags:** statistics, data science 
+* **Tags:** statistics, data science
+
+#### [Coda.Br 2019](https://codabr2019.sched.com/) (2019-11-23)
+* **Data:** 23/11/2019 a 24/11/2019
+* **Local:** São Paulo-SP
+* **Tags:** jornalismo de dados, data science
 
 ## Dezembro
