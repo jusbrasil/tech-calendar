@@ -313,11 +313,6 @@
 * **Local:** São Paulo-SP
 * **Tags:** tecnologia, business, startups
 
-#### [Latinoware](https://2019.latinoware.org/) (2019-10-16)
-* **Data:** 16/10/2019 e 18/10/2019
-* **Local:** Foz do Iguaçu-PR
-* **Tags:** software livre, open source, tecnologia
-
 #### [PHPeste](https://www.phpeste.net/) (2019-10-19)
 * **Data:** 19/10/2019 e 20/10/2019
 * **Local:** Recife-PE
@@ -337,7 +332,6 @@
 * **Data:** 23/10/2019 a 28/10/2019
 * **Local:** Ribeirão Preto-SP
 * **Tags:** python, desenvolvimento, carreira
-
 
 #### [DevOpsDays Campinas](https://sympla.com.br/devopsdays-campinas__530045) (2019-10-25)
 * **Data:** 25/10/2019
@@ -360,5 +354,10 @@
 * **Data:** 23/11/2019 a 24/11/2019
 * **Local:** São Paulo-SP
 * **Tags:** jornalismo de dados, data science
+
+#### [Latinoware](https://2019.latinoware.org/) (2019-11-27)
+* **Data:** 27/11/2019 e 29/11/2019
+* **Local:** Foz do Iguaçu-PR
+* **Tags:** software livre, open source, tecnologia
 
 ## Dezembro
