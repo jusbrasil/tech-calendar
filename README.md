@@ -313,11 +313,6 @@
 * **Local:** São Paulo-SP
 * **Tags:** tecnologia, business, startups
 
-#### [Latinoware](https://2019.latinoware.org/) (2019-10-16)
-* **Data:** 16/10/2019 e 18/10/2019
-* **Local:** Foz do Iguaçu-PR
-* **Tags:** software livre, open source, tecnologia
-
 #### [PHPeste](https://www.phpeste.net/) (2019-10-19)
 * **Data:** 19/10/2019 e 20/10/2019
 * **Local:** Recife-PE
@@ -354,6 +349,11 @@
 #### [Second Conference on Statistics and Data Science](http://www.csds2019.ime.ufba.br/index.html) (2019-11-18)
 * **Data:** 18/11/2019 a 20/11/2019
 * **Local:** Salvador-BA
-* **Tags:** statistics, data science 
+* **Tags:** statistics, data science
+
+#### [Latinoware](https://2019.latinoware.org/) (2019-11-27)
+* **Data:** 27/11/2019 e 29/11/2019
+* **Local:** Foz do Iguaçu-PR
+* **Tags:** software livre, open source, tecnologia
 
 ## Dezembro
