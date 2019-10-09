@@ -357,3 +357,9 @@
 * **Tags:** software livre, open source, tecnologia
 
 ## Dezembro
+
+#### [Blumenau Dev Day](http://www.hackerspaceblumenau.org/blumenau-dev-day/) (2019-12-07)
+* **Data:** 07/12/2019
+* **Local:** FURB - Blumenau - SC
+* **Tags:** software livre, open source, tecnologia, agile, mulheres na tecnologia, comunidades
+
