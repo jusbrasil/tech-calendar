@@ -333,7 +333,6 @@
 * **Local:** Ribeirão Preto-SP
 * **Tags:** python, desenvolvimento, carreira
 
-
 #### [DevOpsDays Campinas](https://sympla.com.br/devopsdays-campinas__530045) (2019-10-25)
 * **Data:** 25/10/2019
 * **Local:** Centro de Convenções da Unicamp, Campinas-SP
@@ -350,6 +349,11 @@
 * **Data:** 18/11/2019 a 20/11/2019
 * **Local:** Salvador-BA
 * **Tags:** statistics, data science
+
+#### [Coda.Br 2019](https://codabr2019.sched.com/) (2019-11-23)
+* **Data:** 23/11/2019 a 24/11/2019
+* **Local:** São Paulo-SP
+* **Tags:** jornalismo de dados, data science
 
 #### [Latinoware](https://2019.latinoware.org/) (2019-11-27)
 * **Data:** 27/11/2019 e 29/11/2019
