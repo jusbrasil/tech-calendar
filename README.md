@@ -338,6 +338,12 @@
 * **Local:** Centro de Convenções da Unicamp, Campinas-SP
 * **Tags:** devops, desenvolvimento, operações, infraestrutura, sysadmin
 
+
+#### [LISA](https://www.usenix.org/conference/lisa19) (2019-10-28)
+* **Data:** 28/10/2019 a 30/10/2019
+* **Local:** Portland, OR, USA
+* **Tags:** devops, syadmin, infraestrutura, sre, site reliability engineering, security
+
 ## Novembro
 
 #### [KubeCon / CloudNativeCon Americas](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) (2019-11-18)
