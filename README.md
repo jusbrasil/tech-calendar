@@ -313,6 +313,11 @@
 * **Local:** São Paulo-SP
 * **Tags:** tecnologia, business, startups
 
+#### [REdeploy](https://re-deploy.io/) (2019-10-16)
+* **Data:** 16/10/2019 e 17/10/2019
+* **Local:** San Francisco, CA, USA
+* **Tags:** tecnologia, chaos engineering, resilience engineering, arquitetura, infraestrutura
+
 #### [PHPeste](https://www.phpeste.net/) (2019-10-19)
 * **Data:** 19/10/2019 e 20/10/2019
 * **Local:** Recife-PE
@@ -328,6 +333,11 @@
 * **Local:** São Paulo-SP
 * **Tags:** react, react-native, relay, graphql
 
+#### [Monitorama](https://monitorama.com/) (2019-10-16)
+* **Data:** 21/10/2019 e 22/10/2019
+* **Local:** Baltimore, MD, USA
+* **Tags:** tecnologia, monitoração, infraestrutura, arquitetura
+
 #### [Python Brasil](https://2019.pythonbrasil.org.br/) (2019-10-23)
 * **Data:** 23/10/2019 a 28/10/2019
 * **Local:** Ribeirão Preto-SP
@@ -337,7 +347,6 @@
 * **Data:** 25/10/2019
 * **Local:** Centro de Convenções da Unicamp, Campinas-SP
 * **Tags:** devops, desenvolvimento, operações, infraestrutura, sysadmin
-
 
 #### [LISA](https://www.usenix.org/conference/lisa19) (2019-10-28)
 * **Data:** 28/10/2019 a 30/10/2019
