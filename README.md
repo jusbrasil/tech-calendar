@@ -10,6 +10,11 @@
 
 ## Maio
 
+#### [QCon São Paulo](https://qconsp.com) (2019-05-04)
+* **Data:** 04/05/2019 a 06/05/2019
+* **Local:** Centro de Convenções Frei Caneca - São Paulo-SP
+* **Tags:** desenvolvimento, web, backend, fullstack, tecnologia
+
 ## Junho
 
 ## Julho
