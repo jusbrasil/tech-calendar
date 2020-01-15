@@ -25,22 +25,22 @@
 
 ## Maio
 
-#### [Python Sul](https://pythonsul.org/) (2020-05-01)
+### [Python Sul](https://pythonsul.org/) (2020-05-01)
 * **Data:** 01/05/2020 a 03/05/2020
 * **Local:** Centro de Inovação de Jaraguá do Sul - Jaraguá do Sul-SC
 * **Tags:** desenvolvimento, web, backend, fullstack, tecnologia
 
-#### [QCon São Paulo](https://qconsp.com) (2020-05-04)
+### [QCon São Paulo](https://qconsp.com) (2020-05-04)
 * **Data:** 04/05/2020 a 06/05/2020
 * **Local:** Centro de Convenções Frei Caneca - São Paulo-SP
 * **Tags:** desenvolvimento, web, backend, fullstack, tecnologia
 
-#### [UXConf](https://www.uxconf.com.br/) (2020-05-15)
+### [UXConf](https://www.uxconf.com.br/) (2020-05-15)
 * **Data:** 15/05/2020 a 16/05/2020
 * **Local:** PUCRS - Porto Alegre-RS
 * **Tags:** ux
 
-#### [CapiConf](https://capiconf.com/2020/start) (2020-05-15)
+### [CapiConf](https://capiconf.com/2020/start) (2020-05-15)
 * **Data:** 15/05/2020 a 16/05/2020
 * **Local:** Universidade Positivo em Curitiba - Curitiba-PR
 * **Tags:** desenvolvimento, web, backend, fullstack, tecnologia
@@ -62,12 +62,12 @@
 * **Local:** _locais a confirmar_
 * **Tags:** desenvolvimento, web, backend, python, node, ruby, java, agil, golang
 
-#### [Visual Studio Summit]( http://vssummit.com.br/) (2020-06-05)
+### [Visual Studio Summit]( http://vssummit.com.br/) (2020-06-05)
 * **Data:** 05/06/2020 a 07/06/2020
 * **Local:** _locais a confirmar_ - São Paulo-SP
 * **Tags:** desenvolvimento
 
-#### [Darkmira Tour PHP](https://capiconf.com/2020/start) (2020-06-05)
+### [Darkmira Tour PHP](https://capiconf.com/2020/start) (2020-06-05)
 * **Data:** 05/06/2020 a 07/06/2020
 * **Local:** _locais a confirmar_ - Fortaleza
 * **Tags:** desenvolvimento, web, backend, php
@@ -85,14 +85,14 @@
 
 ## Outubro
 
-#### [Python Brasil](https://2020.pythonbrasil.org.br/) (2020-10-28)
+### [Python Brasil](https://2020.pythonbrasil.org.br/) (2020-10-28)
 * **Data:** 28/10/2020 a 02/11/2020
 * **Local:** Caxias do Sul-RS
 * **Tags:** python, desenvolvimento, carreira
 
 ## Novembro
 
-#### [GopherCon Brasil](https://2020.gopherconbr.org/) (2019-11-02)
+### [GopherCon Brasil](https://2020.gopherconbr.org/) (2019-11-02)
 * **Data:** 02/11/2019 a 03/11/2019
 * **Local:** Florianópolis-SC
 * **Tags:** go
