@@ -47,6 +47,11 @@
 
 ## Outubro
 
+#### [GopherCon Brasil](https://2020.gopherconbr.org/) (2020-10-02)
+* **Data:** 02/10/2020 a 03/10/2020
+* **Local:** Florianópolis-SC
+* **Tags:** go
+
 #### [Python Brasil](https://2020.pythonbrasil.org.br/) (2020-10-28)
 * **Data:** 28/10/2020 a 02/11/2020
 * **Local:** Caxias do Sul-RS
@@ -54,9 +59,5 @@
 
 ## Novembro
 
-#### [GopherCon Brasil](https://2020.gopherconbr.org/) (2020-11-02)
-* **Data:** 02/11/2020 a 03/11/2020
-* **Local:** Florianópolis-SC
-* **Tags:** go
 
 ## Dezembro
