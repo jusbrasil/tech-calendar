@@ -50,6 +50,11 @@
 * **Local:** Senac Flamengo - Rio de Janeiro-RJ
 * **Tags:** javascript, node, web
 
+### [Elixir Brasil 2020](https://www.sympla.com.br/elixir-brasil-2020__736536) (2020-05-23)
+* **Data:** 23/05/2020 a 24/05/2020
+* **Local:** Teatro Prevent Senior - Instituto Tomie Ohtake - São Paulo-SP 
+* **Tags:** desenvolvimento, elixir, erlang
+
 ### [Tech Interior](https://techinterior.com.br/) (2020-05-23)
 * **Data:** 23/05/2020
 * **Local:** Hotel Recreio São Jorge - Jaboticabal-SP
