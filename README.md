@@ -23,6 +23,11 @@
 * **Local:** _locais a confirmar_
 * **Tags:** desenvolvimento, web, backend, python, node, ruby, java, agil, golang
 
+### [NoSQLBA 2020](http://www.nosqlba.com/2020/index.html) (2020-04-18)
+* **Data:** 18/04/2020
+* **Local:** UCSAL (Universidade Católica do Salvador - Campus Pituaçu)
+* **Tags:** desenvolvimento, web, backend,nosql
+
 ## Maio
 
 ### [Python Sul](https://pythonsul.org/) (2020-05-01)
