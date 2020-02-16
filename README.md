@@ -6,6 +6,11 @@
 
 ## Março
 
+### [Semcomp 2020](https://semcomp.com.br) (2020-03-18)
+* **Data:** 18/03/2020 a 21/03/2020
+* **Local:** Instituto de Matemática da UFBA - Salvador
+* **Tags:** desenvolvimento, tecnologia, devops, frontend, fullstack, backend
+
 ### [Campus Party Amazônia](https://brasil.campus-party.org/campus-party-amazonia-2020/) (2020-03-18)
 * **Data:** 18/03/2020 a 22/03/2020
 * **Local:** Arena da Amazônia - Manaus
