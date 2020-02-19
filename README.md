@@ -113,7 +113,7 @@
 * **Tags:** go
 
 ### [NullByte](https://www.nullbyte-con.org/) (2020-11-07)
-* **Data:** 07/11/2019
+* **Data:** 07/11/2020
 * **Local:** Salvador-BA
 * **Tags:** hacking, segurança
 
