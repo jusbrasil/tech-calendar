@@ -112,4 +112,9 @@
 * **Local:** Florianópolis-SC
 * **Tags:** go
 
+### [NullByte](https://www.nullbyte-con.org/) (2019-11-07)
+* **Data:** 07/11/2019
+* **Local:** Salvador-BA
+* **Tags:** hacking, segurança
+
 ## Dezembro
