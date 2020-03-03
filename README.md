@@ -87,6 +87,11 @@
 * **Local:** _locais a confirmar_ - Fortaleza
 * **Tags:** desenvolvimento, web, backend, php
 
+### [Devopsdays João Pessoa](https://devopsdays.org/events/2020-joao-pessoa/welcome/) (2020-06-06)
+* **Data:** 06/06/2020
+* **Local:** Auditório do UNIPÊ - João Pessoa-PB
+* **Tags:** desenvolvimento, tecnologia, devops
+
 ### [BrazilJS Vitória](https://braziljs.org/eventos/otr-espirito-santo/2020) (2020-06-27)
 * **Data:** 27/06/2020
 * **Local:** FAESA | Centro Universitário - Campus Vitória - Vitória-ES
