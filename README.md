@@ -97,6 +97,11 @@
 * **Local:** FAESA | Centro Universitário - Campus Vitória - Vitória-ES
 * **Tags:** javascript, node, web
 
+### [Front in Campinas](https://frontincampinas.com.br/) (2020-06-06)
+* **Data:** 06/06/2020
+* **Local:** Hotel Vitoria Concept - Campinas-SP
+* **Tags:** desenvolvimento, fronted
+
 ## Julho
 
 ## Agosto
