@@ -92,19 +92,24 @@
 * **Local:** Auditório do UNIPÊ - João Pessoa-PB
 * **Tags:** desenvolvimento, tecnologia, devops
 
+### [Front in Campinas](https://frontincampinas.com.br/) (2020-06-06)
+* **Data:** 06/06/2020
+* **Local:** Hotel Vitoria Concept - Campinas-SP
+* **Tags:** desenvolvimento, frontend
+
 ### [BrazilJS Vitória](https://braziljs.org/eventos/otr-espirito-santo/2020) (2020-06-27)
 * **Data:** 27/06/2020
 * **Local:** FAESA | Centro Universitário - Campus Vitória - Vitória-ES
 * **Tags:** javascript, node, web
 
-### [Front in Campinas](https://frontincampinas.com.br/) (2020-06-06)
-* **Data:** 06/06/2020
-* **Local:** Hotel Vitoria Concept - Campinas-SP
-* **Tags:** desenvolvimento, fronted
-
 ## Julho
 
 ## Agosto
+
+### [DevCamp](https://www.devcamp.com.br/) (2020-08-14)
+* **Data:** 14/08/2020
+* **Local:** Expo D. Pedro, Campinas, SP
+* **Tags:** desenvolvimento, carreria, frontend, backend, mobile
 
 ## Setembro
 
