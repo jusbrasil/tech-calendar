@@ -110,6 +110,11 @@
 
 ## Outubro
 
+### [BrazilJS Conf](https://braziljs.org/eventos/braziljs-conf/2020/) (2020-10-01)
+* **Data:** 01/10/2020 a 03/10/2020
+* **Local:** PUCRS, Porto Alegre-RS
+* **Tags:** javascript, desenvolvimento, nodejs, web
+
 ### [Python Brasil](https://2020.pythonbrasil.org.br/) (2020-10-28)
 * **Data:** 28/10/2020 a 02/11/2020
 * **Local:** Caxias do Sul-RS
